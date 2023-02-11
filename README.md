@@ -29,3 +29,8 @@ go get github.com/spf13/viper
 ### 接口文档管理：go-swagger
 
 ### 服务通信：gRPC
+
+### decimal类型存储
+```shell
+go get -u github.com/shopspring/decimal
+```

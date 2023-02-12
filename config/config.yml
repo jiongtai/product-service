@@ -1,0 +1,10 @@
+Server:
+  RunMode: release
+  HttpPort: 8899
+Database:
+  DBType: mysql
+  Username: root
+  Password: 123456
+  Host: 127.0.0.1:3306
+  DBName: erp
+  

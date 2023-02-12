@@ -11,7 +11,7 @@ go get -u github.com/gin-gonic/gin
 
 ```shell
 go get -u gorm.io/gorm
-go get -u gorm.io/driver/sqlite
+go get -u gorm.io/driver/mysql
 ```
 缓存操作：go-redis
 ```shell
